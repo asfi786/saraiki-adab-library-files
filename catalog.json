@@ -1,1 +1,29 @@
-{"books":[],"authors":[]}
+{
+ "books": [
+  {
+   "title": "Test Kitab",
+   "categoryId": "c2",
+   "description": "test",
+   "language": "skr",
+   "year": 2026,
+   "publisher": "",
+   "pages": 10,
+   "fileSize": "—",
+   "featured": false,
+   "isSample": false,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/mus8b4o3_5stzz6_test-book.pdf",
+   "id": "b_mus8b85v",
+   "authorId": "a_mus8b85v_u7mj7",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  }
+ ],
+ "authors": [
+  {
+   "id": "a_mus8b85v_u7mj7",
+   "name": "Test Likhari"
+  }
+ ],
+ "sha": "b3b0606351f05ccbae23d395f1be955e70069c70"
+}
