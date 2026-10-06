@@ -1,23 +1,6 @@
 {
  "books": [
   {
-   "title": "Divan of Khwaja Ghulam Farid",
-   "categoryId": "c11",
-   "description": "خواجہ غلام فرید (1845–1901) دے دیوان دا 1997 دا انگریزی ایڈیشن/مطالعہ (مرتب: بھٹی) — سرائیکی صوفی شاعری تے تحقیق۔ (Creative Commons BY-NC-ND 4.0 — Internet Archive)",
-   "language": "en",
-   "year": 1997,
-   "publisher": "Internet Archive",
-   "pages": 945,
-   "featured": true,
-   "pdfUrl": "https://archive.org/download/divan-of-khawja-ghulam-farid-1997/Divan%20of%20Khawja%20Ghulam%20Farid%20%281997%29.pdf",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwcig53_in5nsh_cover-divan-farid-1997-001.jpg",
-   "id": "b_muwckssk",
-   "authorId": "a_muwckssk_f2ddb",
-   "uploaded": true,
-   "downloads": 0,
-   "reads": 0
-  },
-  {
    "title": "سرائیکی زبان",
    "categoryId": "c9",
    "description": "سرائیکی زبان دے روزمرّہ جات، محاورہ جات تے ضرب الامثال — زبان سکھݨ والیاں کیتے قیمتی کتاب۔ (Creative Commons BY-ND 4.0 — Internet Archive)",
@@ -99,11 +82,7 @@
   {
    "id": "a_muwckpim_9wo75",
    "name": "نعمان نیئر کلاچوی"
-  },
-  {
-   "id": "a_muwckssk_f2ddb",
-   "name": "خواجہ غلام فرید"
   }
  ],
- "sha": "9f207e6dca72521c2c5054e503a17eab62298643"
+ "sha": "47de36f89d9cfde9f2471ae36e523918edfb3384"
 }
