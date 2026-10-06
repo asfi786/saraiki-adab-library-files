@@ -1,6 +1,23 @@
 {
  "books": [
   {
+   "title": "نِروان",
+   "categoryId": "c1",
+   "description": "سرائیکی چوکڑیاں دا مجموعہ — نعمان نیئر کلاچوی دی شاعری۔ (Creative Commons BY-ND 4.0 — Internet Archive)",
+   "language": "skr",
+   "year": 2026,
+   "publisher": "Internet Archive",
+   "pages": 59,
+   "featured": true,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwchxsx_jvix1h_nirvan.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwchzrb_6w2gam_cover-nirvan-01.jpg",
+   "id": "b_muwckpim",
+   "authorId": "a_muwckpim_9wo75",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "id": "b_muw8xxk0",
    "title": "وکھرپ — Recognition: Self and Other",
    "authorId": "a_muw8xxk0_snj7w",
@@ -24,7 +41,11 @@
   {
    "id": "a_muw8xxk0_snj7w",
    "name": "Ustad Fida Hussain Gaadi"
+  },
+  {
+   "id": "a_muwckpim_9wo75",
+   "name": "نعمان نیئر کلاچوی"
   }
  ],
- "sha": "961c5d602e6b74a4aebcdf52f2647eaffa01325a"
+ "sha": "d8aff387f0bb94a26d4720c13d60fe09585af16f"
 }
