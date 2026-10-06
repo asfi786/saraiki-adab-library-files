@@ -43,13 +43,14 @@
    "publisher": "Internet Archive",
    "pages": 90,
    "featured": false,
-   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwci44r_tr3r5f_khussay-tropay.pdf",
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwito7c_b4bwxy_khussay-tropay-fixed.pdf",
    "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwci5qo_tegalz_cover-khussay-tropay-01.jpg",
    "id": "b_muwckqno",
    "authorId": "a_muwckpim_9wo75",
    "uploaded": true,
    "downloads": 0,
-   "reads": 0
+   "reads": 0,
+   "fileSize": "3.5 MB"
   },
   {
    "title": "نِروان",
@@ -103,5 +104,5 @@
    "name": "خواجہ غلام فرید"
   }
  ],
- "sha": "9e3a5ba804f4e7927c7652fb626dcd5eae729898"
+ "sha": "f0fca88e66521e9ae31e233baa501dc0fa700211"
 }
