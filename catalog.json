@@ -1,6 +1,7 @@
 {
  "books": [
   {
+   "id": "b_muw8xxk0",
    "title": "وکھرپ — Recognition: Self and Other",
    "authorId": "a_muw8xxk0_snj7w",
    "categoryId": "c11",
@@ -9,14 +10,13 @@
    "year": 2026,
    "publisher": "Siraikam",
    "pages": 9,
-   "fileSize": "0.9 MB",
+   "fileSize": "2.3 MB",
    "downloads": 0,
    "reads": 0,
    "featured": true,
    "isSample": false,
-   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muw8xozn_jqq3kf_wakhrap-recognition-self-and-other.pdf",
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muw9n71c_lwybef_wakhrap-recognition-self-and-other-hd.pdf",
    "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muw8xqd4_6ug8l4_pic-1.jpg",
-   "id": "b_muw8xxk0",
    "uploaded": true
   }
  ],
@@ -26,5 +26,5 @@
    "name": "Ustad Fida Hussain Gaadi"
   }
  ],
- "sha": "bc902a202a4b9ff798f0d54e69a9b91e4c293695"
+ "sha": "961c5d602e6b74a4aebcdf52f2647eaffa01325a"
 }
