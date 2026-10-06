@@ -1,6 +1,23 @@
 {
  "books": [
   {
+   "title": "Divan of Khwaja Ghulam Farid — Part 2",
+   "categoryId": "c11",
+   "description": "خواجہ غلام فرید (1845–1901) دے دیوان دا 1997 دا انگریزی ایڈیشن/مطالعہ (مرتب: بھٹی) — حصہ دوم (صفحات 473–945)۔ (Creative Commons BY-NC-ND 4.0 — Internet Archive)",
+   "language": "en",
+   "year": 1997,
+   "publisher": "Internet Archive",
+   "pages": 473,
+   "featured": false,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwnwljn_48o56c_divan-part2.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwnwqic_7avhwl_cover-divan-part2-001.jpg",
+   "id": "b_muwnx0ac",
+   "authorId": "a_muwnwywl_p42v1",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "title": "Divan of Khwaja Ghulam Farid — Part 1",
    "categoryId": "c11",
    "description": "خواجہ غلام فرید (1845–1901) دے دیوان دا 1997 دا انگریزی ایڈیشن/مطالعہ (مرتب: بھٹی) — حصہ اول (صفحات 1–472)۔ (Creative Commons BY-NC-ND 4.0 — Internet Archive)",
@@ -105,5 +122,5 @@
    "name": "خواجہ غلام فرید"
   }
  ],
- "sha": "afbb6284d21ff00b16f62f253044b190aff796f8"
+ "sha": "05166f7969cf2c1600c761c05005cb942dd81723"
 }
