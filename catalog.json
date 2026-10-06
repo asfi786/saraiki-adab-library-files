@@ -1,6 +1,23 @@
 {
  "books": [
   {
+   "title": "خیر شاہ دا کلام",
+   "categoryId": "c1",
+   "description": "حضرت خیر شاہ (1814–1904) دا صوفیانہ کلام — کافیاں تے ڈوہڑے۔ تحقیق و تہذیب: پروفیسر طاہر تونسوی، بزمِ ثقافت ملتان، 1977۔ (Public domain — siraiki.com)",
+   "language": "skr",
+   "year": 1977,
+   "publisher": "بزمِ ثقافت ملتان",
+   "pages": 85,
+   "featured": true,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwo8qmu_bkft61_khair-shah-fixed.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwo8u02_3madc9_cover-khair-shah-01.jpg",
+   "id": "b_muwo9178",
+   "authorId": "a_muwo9178_re1fr",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "title": "Divan of Khwaja Ghulam Farid — Part 2",
    "categoryId": "c11",
    "description": "خواجہ غلام فرید (1845–1901) دے دیوان دا 1997 دا انگریزی ایڈیشن/مطالعہ (مرتب: بھٹی) — حصہ دوم (صفحات 473–945)۔ (Creative Commons BY-NC-ND 4.0 — Internet Archive)",
@@ -120,7 +137,11 @@
   {
    "id": "a_muwnwywl_p42v1",
    "name": "خواجہ غلام فرید"
+  },
+  {
+   "id": "a_muwo9178_re1fr",
+   "name": "خیر شاہ"
   }
  ],
- "sha": "05166f7969cf2c1600c761c05005cb942dd81723"
+ "sha": "186203bf9bfc7627ec3ca4328d08609a3c3f0a9a"
 }
