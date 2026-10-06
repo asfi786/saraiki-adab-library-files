@@ -1,6 +1,23 @@
 {
  "books": [
   {
+   "title": "سرائیکی زبان",
+   "categoryId": "c9",
+   "description": "سرائیکی زبان دے روزمرّہ جات، محاورہ جات تے ضرب الامثال — زبان سکھݨ والیاں کیتے قیمتی کتاب۔ (Creative Commons BY-ND 4.0 — Internet Archive)",
+   "language": "skr",
+   "year": 2024,
+   "publisher": "Internet Archive",
+   "pages": 20,
+   "featured": false,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwci8u9_z4nake_saraiki-zuban.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwcib1g_s984hd_cover-saraiki-zuban-01.jpg",
+   "id": "b_muwckrpn",
+   "authorId": "a_muwckpim_9wo75",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "title": "خُسّے تروپے",
    "categoryId": "c1",
    "description": "ٹوکڑیاں تے چوکڑیاں — سرائیکی لوک شعری صنفاں دا مجموعہ۔ (Creative Commons BY-ND 4.0 — Internet Archive)",
@@ -64,5 +81,5 @@
    "name": "نعمان نیئر کلاچوی"
   }
  ],
- "sha": "b50b7c96061323f2f0bcdfb1fb79a52388e8ddf5"
+ "sha": "269dd3212f98daeef33d8fe08f4b2f62a0870e87"
 }
