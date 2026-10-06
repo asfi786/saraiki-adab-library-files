@@ -60,13 +60,14 @@
    "publisher": "Internet Archive",
    "pages": 59,
    "featured": true,
-   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwchxsx_jvix1h_nirvan.pdf",
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwiti1j_1h1eog_nirvan-fixed.pdf",
    "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwchzrb_6w2gam_cover-nirvan-01.jpg",
    "id": "b_muwckpim",
    "authorId": "a_muwckpim_9wo75",
    "uploaded": true,
    "downloads": 0,
-   "reads": 0
+   "reads": 0,
+   "fileSize": "1.3 MB"
   },
   {
    "id": "b_muw8xxk0",
@@ -102,5 +103,5 @@
    "name": "خواجہ غلام فرید"
   }
  ],
- "sha": "f14c8359549ffb3c8a1b4dd164ece0e434521128"
+ "sha": "9e3a5ba804f4e7927c7652fb626dcd5eae729898"
 }
