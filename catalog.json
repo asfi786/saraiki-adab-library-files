@@ -24,15 +24,16 @@
    "language": "skr",
    "year": 2024,
    "publisher": "Internet Archive",
-   "pages": 20,
+   "pages": 50,
    "featured": false,
-   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwci8u9_z4nake_saraiki-zuban.pdf",
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muwitv3k_c2gq78_saraiki-zuban-fixed.pdf",
    "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muwcib1g_s984hd_cover-saraiki-zuban-01.jpg",
    "id": "b_muwckrpn",
    "authorId": "a_muwckpim_9wo75",
    "uploaded": true,
    "downloads": 0,
-   "reads": 0
+   "reads": 0,
+   "fileSize": "4.0 MB"
   },
   {
    "title": "خُسّے تروپے",
@@ -104,5 +105,5 @@
    "name": "خواجہ غلام فرید"
   }
  ],
- "sha": "f0fca88e66521e9ae31e233baa501dc0fa700211"
+ "sha": "9f207e6dca72521c2c5054e503a17eab62298643"
 }
