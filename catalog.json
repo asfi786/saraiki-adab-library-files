@@ -1,6 +1,24 @@
 {
  "books": [
   {
+   "title": "سرائیکی اور اسکی نثر — حصہ اول",
+   "categoryId": "c11",
+   "description": "دلشاد کلانچوی دی مشہور کتاب 'سرائیکی اور اسکی نثر' — سرائیکی نثر دی تاریخ تے تنقید تے قیمتی تحقیقی کم۔ مکتبہ سرائیکی لائبریری، بھاولپور۔",
+   "language": "skr",
+   "publisher": "مکتبہ سرائیکی لائبریری، بھاولپور",
+   "pages": 9,
+   "fileSize": "2.0 MB",
+   "featured": true,
+   "isSample": false,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muxskw08_fm93q3_saraiki-nasr-p1.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muxslnmy_ptu6q9_page-01.jpg",
+   "id": "b_muxslvun",
+   "authorId": "a_muxslvun_8u113",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "title": "خیر شاہ دا کلام",
    "categoryId": "c1",
    "description": "حضرت خیر شاہ (1814–1904) دا صوفیانہ کلام — کافیاں تے ڈوہڑے۔ تحقیق و تہذیب: پروفیسر طاہر تونسوی، بزمِ ثقافت ملتان، 1977۔ (Public domain — siraiki.com)",
@@ -141,7 +159,11 @@
   {
    "id": "a_muwo9178_re1fr",
    "name": "خیر شاہ"
+  },
+  {
+   "id": "a_muxslvun_8u113",
+   "name": "دلشاد کلانچوی"
   }
  ],
- "sha": "99c1aa84e96dbfa15a6682f16cc73b3a4ae5c9a6"
+ "sha": "4a8e39ea64d6d77b60449a39c8eb563d091f9197"
 }
