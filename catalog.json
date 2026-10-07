@@ -1,6 +1,24 @@
 {
  "books": [
   {
+   "title": "سرائیکی اور اسکی نثر — حصہ دوم",
+   "categoryId": "c11",
+   "description": "دلشاد کلانچوی دی مشہور کتاب 'سرائیکی اور اسکی نثر' — سرائیکی نثر دی تاریخ تے تنقید تے قیمتی تحقیقی کم۔ مکتبہ سرائیکی لائبریری، بھاولپور۔",
+   "language": "skr",
+   "publisher": "مکتبہ سرائیکی لائبریری، بھاولپور",
+   "pages": 9,
+   "fileSize": "3.0 MB",
+   "featured": true,
+   "isSample": false,
+   "pdfUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/pdfs/muxsl2at_v60tmr_saraiki-nasr-p2.pdf",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/asfi786/saraiki-adab-library-files@main/covers/muxslnmy_ptu6q9_page-01.jpg",
+   "id": "b_muxslx65",
+   "authorId": "a_muxslvun_8u113",
+   "uploaded": true,
+   "downloads": 0,
+   "reads": 0
+  },
+  {
    "title": "سرائیکی اور اسکی نثر — حصہ اول",
    "categoryId": "c11",
    "description": "دلشاد کلانچوی دی مشہور کتاب 'سرائیکی اور اسکی نثر' — سرائیکی نثر دی تاریخ تے تنقید تے قیمتی تحقیقی کم۔ مکتبہ سرائیکی لائبریری، بھاولپور۔",
@@ -165,5 +183,5 @@
    "name": "دلشاد کلانچوی"
   }
  ],
- "sha": "4a8e39ea64d6d77b60449a39c8eb563d091f9197"
+ "sha": "1c2864a476ba7d79811e42a94905264c3af1d7ab"
 }
